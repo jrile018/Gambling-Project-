@@ -1,3 +1,4 @@
+import time
 import requests
 from bs4 import BeautifulSoup, Comment
 import pandas as pd
@@ -91,7 +92,7 @@ def scrape_latest_season_stats(input_csv="player_info.csv", output_csv="player_i
         headers_list = [th.get_text(strip=True) for th in header_cells]
         print(f"    [Scrape] Table headers: {headers_list}")
         
-        # Extract all rows from tbody
+        # Extract rows from tbody
         tbody = table.find("tbody")
         if not tbody:
             print("    [Scrape] No tbody found in table. Returning zeros.")
@@ -109,7 +110,7 @@ def scrape_latest_season_stats(input_csv="player_info.csv", output_csv="player_i
             print("    [Scrape] No rows extracted from table. Returning zeros.")
             return zero_dict
         
-        # Identify the last valid season row (skip rows labeled "Career" or "Playoffs")
+        # Identify the last valid season row (skip "Career" or "Playoffs")
         latest_season_row = None
         for row_data in reversed(rows_data):
             season_label = row_data[0].lower()
@@ -124,8 +125,7 @@ def scrape_latest_season_stats(input_csv="player_info.csv", output_csv="player_i
             print("    [Scrape] No valid season row found. Returning zeros.")
             return zero_dict
         
-        # Build a dictionary mapping stat_columns to the values in the row.
-        # We'll assume the order of the extracted row matches our stat_columns order.
+        # Map extracted row to stat_columns (assumes order is matching)
         row_stats = {}
         for i, col in enumerate(stat_columns):
             if i < len(latest_season_row):
@@ -138,14 +138,15 @@ def scrape_latest_season_stats(input_csv="player_info.csv", output_csv="player_i
     # Loop over each player and scrape their stats
     print("[Main] Starting to scrape individual player stats ...")
     for idx, row in df.iterrows():
+        print(f"  [Main] Waiting 10 seconds before processing row {idx} ...")
+        time.sleep(10)
         url = row.get("URL", "")
         print(f"  [Main] Processing row {idx} with URL: {url}")
         stats_dict = scrape_player_stats(url)
-        # Update the DataFrame with the scraped stats
+        # Update DataFrame with scraped stats
         for col in stat_columns:
             val = stats_dict[col]
             try:
-                # Convert to float if possible; otherwise, keep as string
                 val_num = float(val)
                 df.at[idx, col] = val_num
                 print(f"    [Main] Converted {col}='{val}' to {val_num}.")
@@ -153,7 +154,6 @@ def scrape_latest_season_stats(input_csv="player_info.csv", output_csv="player_i
                 df.at[idx, col] = val
                 print(f"    [Main] Keeping {col} as string: '{val}'.")
     
-    # Save the updated DataFrame
     df.to_csv(output_csv, index=False)
     print(f"[Main] Done! Updated stats appended to '{output_csv}'.")
 

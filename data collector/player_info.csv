@@ -27,7 +27,7 @@ No.,Player,Pos,Ht,Wt,Birth Date,Birth,Exp,College,Team,URL,Season,Age,Tm,Lg,G,GS
 88,Neemias Queta,0,7-0,245.0,"July 13, 1999",ptPT,3,Utah State University,BOS,https://www.basketball-reference.com/players/q/quetane01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 4,Jrue Holiday,0,6-4,205.0,"June 12, 1990",usUS,15,UCLA,BOS,https://www.basketball-reference.com/players/h/holidjr01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 27,Jordan Walsh,0,6-7,205.0,"March 3, 2004",usUS,1,Arkansas,BOS,https://www.basketball-reference.com/players/w/walshjo01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-8,Kristaps PorziÅÄ£is,0,7-2,240.0,"August 2, 1995",lvLV,8,,BOS,https://www.basketball-reference.com/players/p/porzikr01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,Kristaps Porzingis,0,7-2,240.0,"August 2, 1995",lvLV,8,,BOS,https://www.basketball-reference.com/players/p/porzikr01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 26,Xavier Tillman Sr.,0,6-8,245.0,"January 12, 1999",usUS,4,Michigan State,BOS,https://www.basketball-reference.com/players/s/sr.xaxa01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 13,Drew Peterson(TW),0,6-9,205.0,"November 9, 1999",usUS,1,"Rice University,USC",BOS,https://www.basketball-reference.com/players/p/peterdr01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 55,Baylor Scheierman,0,6-6,205.0,"September 26, 2000",usUS,R,"South Dakota State,Creighton",BOS,https://www.basketball-reference.com/players/s/scheiba01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -125,7 +125,7 @@ No.,Player,Pos,Ht,Wt,Birth Date,Birth,Exp,College,Team,URL,Season,Age,Tm,Lg,G,GS
 0,Christian Braun,0,6-6,218.0,"April 17, 2001",usUS,2,Kansas,DEN,https://www.basketball-reference.com/players/b/braunch01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 3,Julian Strawther,0,6-7,205.0,"April 18, 2002",usUS,1,Gonzaga,DEN,https://www.basketball-reference.com/players/s/strawju01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1,Michael Porter Jr.,0,6-10,218.0,"June 29, 1998",usUS,5,Missouri,DEN,https://www.basketball-reference.com/players/j/jr.mimi01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-15,Nikola JokiÄ,0,6-11,284.0,"February 19, 1995",rsRS,9,,DEN,https://www.basketball-reference.com/players/j/jokiäni01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,Nikola Jokic,0,6-11,284.0,"February 19, 1995",rsRS,9,,DEN,https://www.basketball-reference.com/players/j/jokicni01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 27,Jamal Murray,0,6-4,215.0,"February 23, 1997",caCA,7,Kentucky,DEN,https://www.basketball-reference.com/players/m/murraja01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 4,Russell Westbrook,0,6-4,200.0,"November 12, 1988",usUS,16,UCLA,DEN,https://www.basketball-reference.com/players/w/westbru01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 8,Peyton Watson,0,6-8,200.0,"September 11, 2002",usUS,2,UCLA,DEN,https://www.basketball-reference.com/players/w/watsope01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -135,10 +135,10 @@ No.,Player,Pos,Ht,Wt,Birth Date,Birth,Exp,College,Team,URL,Season,Age,Tm,Lg,G,GS
 32,Aaron Gordon,0,6-8,235.0,"September 16, 1995",usUS,10,Arizona,DEN,https://www.basketball-reference.com/players/g/gordoaa01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 24,Jalen Pickett,0,6-4,209.0,"October 22, 1999",usUS,1,"Siena College,Penn State",DEN,https://www.basketball-reference.com/players/p/pickeja01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 23,Trey Alexander(TW),0,6-4,185.0,"May 2, 2003",usUS,R,Creighton,DEN,https://www.basketball-reference.com/players/a/alexatr01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-9,Dario Å ariÄ,0,6-10,225.0,"April 8, 1994",hrHR,7,,DEN,https://www.basketball-reference.com/players/a/ariäda01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Dario Saric,0,6-10,225.0,"April 8, 1994",hrHR,7,,DEN,https://www.basketball-reference.com/players/s/saricda01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 13,PJ Hall(TW),0,6-8,245.0,"February 21, 2002",usUS,R,Clemson,DEN,https://www.basketball-reference.com/players/h/hall(pj01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 21,Spencer Jones(TW),0,6-7,225.0,"June 14, 2001",usUS,R,Stanford,DEN,https://www.basketball-reference.com/players/j/jonessp01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-31,Vlatko ÄanÄar,0,6-8,236.0,"April 10, 1997",siSI,4,,DEN,https://www.basketball-reference.com/players/ä/äanävl01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,Vlatko Cancar,0,6-8,236.0,"April 10, 1997",siSI,4,,DEN,https://www.basketball-reference.com/players/c/cancavl01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 ,DaRon Holmes,0,6-10,225.0,"August 15, 2002",usUS,R,Dayton,DEN,https://www.basketball-reference.com/players/h/holmeda01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 5,Malik Beasley,0,6-4,187.0,"November 26, 1996",usUS,8,Florida State,DET,https://www.basketball-reference.com/players/b/beaslma01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 00,Ron Holland,0,6-8,206.0,"July 7, 2005",usUS,R,,DET,https://www.basketball-reference.com/players/h/hollaro01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -152,7 +152,7 @@ No.,Player,Pos,Ht,Wt,Birth Date,Birth,Exp,College,Team,URL,Season,Age,Tm,Lg,G,GS
 9,Ausar Thompson,0,6-7,215.0,"January 30, 2003",usUS,1,,DET,https://www.basketball-reference.com/players/t/thompau01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 7,Paul Reed,0,6-9,210.0,"June 14, 1999",usUS,4,DePaul,DET,https://www.basketball-reference.com/players/r/reedppa01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 23,Jaden Ivey,0,6-4,195.0,"February 13, 2002",usUS,2,Purdue,DET,https://www.basketball-reference.com/players/i/iveyjja01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-17,Dennis SchrÃ¶der,0,6-1,172.0,"September 15, 1993",deDE,11,,DET,https://www.basketball-reference.com/players/s/schrãde01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,Dennis Schroder,0,6-1,172.0,"September 15, 1993",deDE,11,,DET,https://www.basketball-reference.com/players/s/schrode01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 43,Lindy Waters III,0,6-6,215.0,"July 28, 1997",usUS,3,Oklahoma State,DET,https://www.basketball-reference.com/players/i/iiilili01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 34,Bobi Klintman,0,6-9,225.0,"March 6, 2003",seSE,R,Wake Forest,DET,https://www.basketball-reference.com/players/k/klintbo01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 24,Daniss Jenkins(TW),0,6-3,165.0,"August 17, 2001",usUS,R,"University of the Pacific,Iona College,St. John's",DET,https://www.basketball-reference.com/players/j/jenkida01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -242,7 +242,7 @@ No.,Player,Pos,Ht,Wt,Birth Date,Birth,Exp,College,Team,URL,Season,Age,Tm,Lg,G,GS
 2,Jarred Vanderbilt,0,6-8,214.0,"April 3, 1999",usUS,6,Kentucky,LAL,https://www.basketball-reference.com/players/v/vandeja01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 9,Bronny James,0,6-2,210.0,"October 6, 2004",usUS,R,USC,LAL,https://www.basketball-reference.com/players/j/jamesbr01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 55,Trey Jemison(TW),0,6-11,260.0,"November 28, 1999",usUS,1,"Clemson,UAB",LAL,https://www.basketball-reference.com/players/j/jemistr01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-77,Luka DonÄiÄ,0,6-6,230.0,"February 28, 1999",siSI,6,,LAL,https://www.basketball-reference.com/players/d/donälu01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+77,Luka Doncic,0,6-6,230.0,"February 28, 1999",siSI,6,,LAL,https://www.basketball-reference.com/players/d/doncilu01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 30,Jordan Goodwin(TW),0,6-3,200.0,"October 23, 1998",usUS,3,Saint Louis,LAL,https://www.basketball-reference.com/players/g/goodwjo01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 27,Alex Len,0,7-0,250.0,"June 16, 1993",uaUA,11,Maryland,LAL,https://www.basketball-reference.com/players/l/lenalal01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 88,Markieff Morris,0,6-9,245.0,"September 2, 1989",usUS,13,Kansas,LAL,https://www.basketball-reference.com/players/m/morrima01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -335,7 +335,7 @@ No.,Player,Pos,Ht,Wt,Birth Date,Birth,Exp,College,Team,URL,Season,Age,Tm,Lg,G,GS
 00,Bruce Brown,0,6-4,202.0,"August 15, 1996",usUS,6,Miami (FL),NOP,https://www.basketball-reference.com/players/b/brownbr01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 13,Kelly Olynyk,0,6-11,240.0,"April 19, 1991",caCA,11,Gonzaga,NOP,https://www.basketball-reference.com/players/o/olynyke01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 0,Keion Brooks Jr.(TW),0,6-7,210.0,"August 7, 2000",usUS,R,"Kentucky,Washington",NOP,https://www.basketball-reference.com/players/j/jr.(tke01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,Lester QuiÃ±ones(TW),0,6-5,208.0,"November 16, 2000",usUS,2,Memphis,NOP,https://www.basketball-reference.com/players/q/quiã±le01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,Lester Quinones(TW),0,6-5,208.0,"November 16, 2000",usUS,2,Memphis,NOP,https://www.basketball-reference.com/players/q/quinole01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 25,Mikal Bridges,0,6-6,209.0,"August 30, 1996",usUS,6,Villanova,NYK,https://www.basketball-reference.com/players/b/bridgmi01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 11,Jalen Brunson,0,6-2,190.0,"August 31, 1996",usUS,6,Villanova,NYK,https://www.basketball-reference.com/players/b/brunsja01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 3,Josh Hart,0,6-4,215.0,"March 6, 1995",usUS,7,Villanova,NYK,https://www.basketball-reference.com/players/h/hartjjo01.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
